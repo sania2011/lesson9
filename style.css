@@ -1,0 +1,14 @@
+1{
+    text-align: center;
+}
+
+.first{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    border: 5px solid black;
+}
+.second{
+    display: flex;
+    gap: 30px;
+}
